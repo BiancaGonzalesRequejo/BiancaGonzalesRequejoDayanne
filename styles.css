@@ -5,8 +5,7 @@ body{
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     min-width: 300px;
-    
-    
+    color: black;    
 }
 h1{
     text-align: center;
@@ -124,7 +123,9 @@ tr:nth-of-type(2)>th{
     line-height:2;
     margin: 6px;
 }
-
+table a{
+    color: black;
+}
 
 
 
