@@ -96,14 +96,41 @@ tr:nth-of-type(1)>th{
   background-color: #7ABFB8;
 }
 tr:nth-of-type(2)>th{
-    background-color: #E9F2F1;
-  }
-  tr:nth-of-type(3)>th{
-    background-color:  #7ABFB8;
-  }
-  tr:nth-of-type(4)>th{
-    background-color:  #E9F2F1;
-  }
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(3)>th{
+    background-color:#7ABFB8;
+ }
+tr:nth-of-type(4)>th{
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(5)>th{
+    background-color:#7ABFB8;
+}
+tr:nth-of-type(6)>th{
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(7)>th{
+    background-color:#7ABFB8;
+}
+tr:nth-of-type(8)>th{
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(9)>th{
+    background-color:#7ABFB8;
+}
+tr:nth-of-type(10)>th{
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(11)>th{
+    background-color:#7ABFB8;
+}
+tr:nth-of-type(12)>th{
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(13)>th{
+    background-color:#7ABFB8;
+}
 
 .margen{
  margin: 6px;
