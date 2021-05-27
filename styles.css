@@ -131,6 +131,23 @@ tr:nth-of-type(12)>th{
 tr:nth-of-type(13)>th{
     background-color:#7ABFB8;
 }
+tr:nth-of-type(14)>th{
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(15)>th{
+    background-color:#7ABFB8;
+}
+tr:nth-of-type(16)>th{
+    background-color:#E9F2F1;
+}
+tr:nth-of-type(17)>th{
+    background-color:#7ABFB8;
+}
+tr:nth-of-type(18)>th{
+    background-color:#E9F2F1;
+}
+
+
 
 .margen{
  margin: 6px;
